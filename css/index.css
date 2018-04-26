@@ -24,11 +24,11 @@
 }
 @font-face {
   font-family: 'demo-icomoon';
-  src:url('../fonts/demo-icomoon.eot');
-  src:url('../fonts/demo-icomoon.eot?#iefix') format('embedded-opentype'),
-    url('../fonts/demo-icomoon.woff') format('woff'),
-    url('../fonts/demo-icomoon.ttf') format('truetype'),
-    url('../fonts/demo-icomoon.svg#demo-icomoon') format('svg');
+  src:url('/fonts/demo-icomoon.eot');
+  src:url('/fonts/demo-icomoon.eot?#iefix') format('embedded-opentype'),
+    url('/fonts/demo-icomoon.woff') format('woff'),
+    url('/fonts/demo-icomoon.ttf') format('truetype'),
+    url('/fonts/demo-icomoon.svg#demo-icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
