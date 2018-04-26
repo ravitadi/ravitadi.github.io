@@ -23,6 +23,17 @@
   src: local('Open Sans'), local('OpenSans'), url(https://themes.googleusercontent.com/static/fonts/opensans/v6/cJZKeOuBrn4kERxqtaUH3T8E0i7KZn-EPnyo3HZu7kw.woff) format('woff');
 }
 
+/* @font-face {
+  font-family: 'demo-icomoon';
+  src:url('/fonts/demo-icomoon.eot');
+  src:url('/fonts/demo-icomoon.eot?#iefix') format('embedded-opentype'),
+    url('/fonts/demo-icomoon.woff') format('woff'),
+    url('/fonts/demo-icomoon.ttf') format('truetype'),
+    url('/fonts/demo-icomoon.svg#demo-icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+} */
+
 [data-icon]:before {
   font-family: 'demo-icomoon';
   content: attr(data-icon);
