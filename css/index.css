@@ -474,12 +474,12 @@ ul{
 
 /*share button */
 
-@font-face {
+/* @font-face {
   font-family: 'social';
   src: url('/font/Socialico.ttf'); 
   src: url('/font/codepen/Socialico.ttf')    format('truetype') 
 }
-
+ */
 
 .container, .lin, .click{
   box-sizing:  border-box;
