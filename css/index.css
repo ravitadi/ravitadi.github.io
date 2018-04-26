@@ -486,8 +486,8 @@ ul{
 
 @font-face {
   font-family: 'social';
-  src: url('http://willpaige.co.uk/codepen/Socialico.ttf'); 
-  src: url('http://willpaige.co.uk/codepen/Socialico.ttf')    format('truetype') 
+  src: url('/font/Socialico.ttf'); 
+  src: url('/font/codepen/Socialico.ttf')    format('truetype') 
 }
 
 
