@@ -3,6 +3,7 @@ The sites uses foursquare api to get the best recommended Venues based on user l
 
 ### Note:
 - Everything is loaded on the client side using latest ESNext, React and Material UI.
+- Not to be used for prod.
 - Api calls are limited and may see time 429 errors if reached max calls
 - Will work on latest chrome browser.
 - Will take longer to load because of dependencies loaded on browser.
